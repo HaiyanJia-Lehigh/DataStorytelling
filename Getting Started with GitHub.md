@@ -22,6 +22,11 @@
   - To further customize your GitHub page, see this [guide for customizing github pages](https://help.github.com/categories/customizing-github-pages/). For instance, you can read [about GitHub Pages and Jekyll](https://help.github.com/articles/about-github-pages-and-jekyll/), [add a Jekyll theme to your GitHub Pages site with the Jekyll Theme Chooser](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/), [customize CSS and HTML in your Jekyll theme](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/), or try [additional customizations for GitHub Pages](https://help.github.com/articles/additional-customizations-for-github-pages/).
 
 
+- **Advanced Options**
+  - [Clay Shirky's use of GitHub to gather photos of Occupy Hong Kong](https://github.com/cshirky/occupyhongkong)
+  - Also see, [Creating an HTML page](http://www.w3schools.com/html/html_intro.asp)
+  - [CodeCademy Web Fundamentals](http://www.codecademy.com/), famed web class for learning code
+
 ## Other Venues for Publishing Content
 - **WiXsite**
   -   Get started using their website: [https://www.wix.com/](https://www.wix.com/)
