@@ -45,10 +45,11 @@
         * Once you click to publish your chart, it will give you a URL, which you can use for sharing, and an emded code, as an iframe, which you can use to insert into your io page.
 
 - **Embedding your chart on GitHub.io page**
--   Super simple: you will need to copy and paste the embed code from the Datawrapper website to your ReadMe file on GitHub.com
--   You will not see the chart showing up on your ReadMe file. The iframe is an interactive feature, which will show up on your GitHub.io page (note the difference). 
--   You may still don't see your chart on your io page just instantly. It is just because it needs time updating and loading this iframe. Give it a couple of minutes; keep refreshing the page; be patient!
--   Don't forget to *always* add a project title and a description. It is also good practice to note the tool you used to create the chart, the data source you used, a link to the dataset, etc.
+  -   Super simple: you will need to copy and paste the embed code from the Datawrapper website to your ReadMe file on GitHub.com
+  -   You will not see the chart showing up on your ReadMe file. The iframe is an interactive feature, which will show up on your GitHub.io page (note the difference). 
+  -   You may still don't see your chart on your io page just instantly. It is just because it needs time updating and loading this iframe. Give it a couple of minutes; keep refreshing the page; be patient!
+  -   Don't forget to *always* add a project title and a description. It is also good practice to note the tool you used to create the chart, the data source you used, a link to the dataset, etc.
+  -   To see an example, please see the pie chart published on my [io page](https://haiyanjia-lehigh.github.io/).
 
 
 
