@@ -28,7 +28,12 @@
         * Check if your first row of data are labels
         * Sort the data if you want to make them show in a certain order (e.g., list data in descending order by the "Total" column)
         * Sometimes, you may need to transpose (swap rows and columns), add a column, etc.
--   Introduction to Datawrapper
+    3. Visualize
+        * Start with choosing the **chart type**. In this practice, we want to create a pie chart. You can choose which part (columns) of the data you want to visualize. In this practice, we want to visualize Total.
+        * You can insert a title by typing into the text box. You can name it "Lehigh Enrollment 2017."
+        * You can also change the chart size, either by directly typing in the length and the width, or by choosing the device on which your chart will be viewed.
+        * The interface also allows you to do a colorblind check.
+        * Next, we go to the "Refine" tab.
 -   Introduction to Datawrapper
 -   Introduction to Datawrapper
 -   **Make sure you change the sharing settings of your Google Spreadsheet to "anyone who has the link can view"
