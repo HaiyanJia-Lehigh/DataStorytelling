@@ -55,7 +55,12 @@
   -   To see an example, please see the pie chart published on my [io page](https://haiyanjia-lehigh.github.io/).
 
 
+- **Creating a bar or column chart**
+  -   Now that you are familiar with the process through which you can create a chart on Datawrapper, you can easily create other types of charts!
+  -   Let's try to create a bar chart using the same data. You will go directly to Step 3 Visualize; this time, under Chart Type tab, choose a bar chart to visualize your data.
+  -   Refine: The Values we want to visualize is "Total." Sort the values by "largest first." Consider the labeling options and alignments. Then, you have the same old color customization, chart size, etc., to choose from.
+  -   Annotate: Don't forget to correctly annotate your chart as before!
 
--   Introduction to Datawrapper
--   Introduction to Datawrapper
+
+
 -   **Make sure you change the sharing settings of your Google Spreadsheet to "anyone who has the link can view"
