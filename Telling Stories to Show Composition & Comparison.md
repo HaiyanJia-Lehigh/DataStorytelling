@@ -64,6 +64,6 @@
   
 
 - **Explore Datawrapper**
- -   Datawrapper provides sample datasets for various chart types. Go create a new chart, and in the first step, where you can upload your own data, try one of the sample datasets from Datawrapper.
- -   Of course, you can search online and find a dataset that is interesting to you. Again, you may need to clean up the data before you upload it to Datawrapper. You can also copy and paste the portion that you want to investigate. You can also make the dataset into a Google Spreadsheet.
--   When you link your own Google Spreadsheet to Datawrapper, **make sure you change the sharing settings of your Google Spreadsheet to "anyone who has the link can view"**
+  -   Datawrapper provides sample datasets for various chart types. Go create a new chart, and in the first step, where you can upload your own data, try one of the sample datasets from Datawrapper.
+  -   Of course, you can search online and find a dataset that is interesting to you. Again, you may need to clean up the data before you upload it to Datawrapper. You can also copy and paste the portion that you want to investigate. You can also make the dataset into a Google Spreadsheet.
+ -   When you link your own Google Spreadsheet to Datawrapper, **make sure you change the sharing settings of your Google Spreadsheet to "anyone who has the link can view"**
