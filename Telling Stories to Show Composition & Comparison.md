@@ -28,12 +28,30 @@
         * Check if your first row of data are labels
         * Sort the data if you want to make them show in a certain order (e.g., list data in descending order by the "Total" column)
         * Sometimes, you may need to transpose (swap rows and columns), add a column, etc.
+        * The data shown on your screen are also editable, which is very convenient.
     3. Visualize
-        * Start with choosing the **chart type**. In this practice, we want to create a pie chart. You can choose which part (columns) of the data you want to visualize. In this practice, we want to visualize Total.
+        * Start with choosing the **chart type**. In this practice, we want to create a pie chart. You will see multiple pie charts created using the four columns of data in the Google Spreadsheet.
         * You can insert a title by typing into the text box. You can name it "Lehigh Enrollment 2017."
         * You can also change the chart size, either by directly typing in the length and the width, or by choosing the device on which your chart will be viewed.
         * The interface also allows you to do a colorblind check.
-        * Next, we go to the "Refine" tab.
+        * Next, we go to the "**Refine**" tab. Here, you can customize the colors of your chart.
+        * Under the same tab, you can also choose how many slices you want to show in your pie chart. Sometimes, the data has too many categories, and you may want to group some of the least important into this "other" category--the system can do that automatically for you. But in case you want to show all of them, or specify a number of slides that are visible, you can manually change that number here.
+        * Then, you get to **Annotate** your chart. This is critical for enabling user understanding of the chart.
+        * You will be able to add a title ("Lehigh Enrollment 2017"), a description ("This pie chart shows the undergraduate enrollment in the colleges and programs at Lehigh University in 2017. College of Arts & Sciences has the largest enrollment, with a total of 1665 students."), a note (optional), data source ("Office of Institutional Research"), link to data source (https://www.lehigh.edu/~oir/profiles/profile.htm), byline (you can put your name down as the author)
+        * In case you want your readers to concentrate on one part of the data, you can choose to highlight the element(s) as well.
+        * Finally, we can take a final look at the **Design** of the chart, deciding the layout, output locale, and whether or not to enable social sharing.
+    4. Publish & Embed
+        * Lastly, of course, is to publish your beautiful chart. With the free account, you get to get the embed code, which you will use to publish the chart on your io page. With a paid account, you also have the option to save your chart locally as an image or PDF.
+        * Once you click to publish your chart, it will give you a URL, which you can use for sharing, and an emded code, as an iframe, which you can use to insert into your io page.
+
+- **Embedding your chart on GitHub.io page**
+-   Super simple: you will need to copy and paste the embed code from the Datawrapper website to your ReadMe file on GitHub.com
+-   You will not see the chart showing up on your ReadMe file. The iframe is an interactive feature, which will show up on your GitHub.io page (note the difference). 
+-   You may still don't see your chart on your io page just instantly. It is just because it needs time updating and loading this iframe. Give it a couple of minutes; keep refreshing the page; be patient!
+-   Don't forget to *always* add a project title and a description. It is also good practice to note the tool you used to create the chart, the data source you used, a link to the dataset, etc.
+
+
+
 -   Introduction to Datawrapper
 -   Introduction to Datawrapper
 -   **Make sure you change the sharing settings of your Google Spreadsheet to "anyone who has the link can view"
