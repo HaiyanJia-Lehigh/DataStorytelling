@@ -60,7 +60,10 @@
   -   Let's try to create a bar chart using the same data. You will go directly to Step 3 Visualize; this time, under Chart Type tab, choose a bar chart to visualize your data.
   -   Refine: The Values we want to visualize is "Total." Sort the values by "largest first." Consider the labeling options and alignments. Then, you have the same old color customization, chart size, etc., to choose from.
   -   Annotate: Don't forget to correctly annotate your chart as before!
+  -   Then, you are ready to publish your new chart! Add it to your io page using the embed code.
+  
 
-
-
--   **Make sure you change the sharing settings of your Google Spreadsheet to "anyone who has the link can view"
+- **Explore Datawrapper**
+ -   Datawrapper provides sample datasets for various chart types. Go create a new chart, and in the first step, where you can upload your own data, try one of the sample datasets from Datawrapper.
+ -   Of course, you can search online and find a dataset that is interesting to you. Again, you may need to clean up the data before you upload it to Datawrapper. You can also copy and paste the portion that you want to investigate. You can also make the dataset into a Google Spreadsheet.
+-   When you link your own Google Spreadsheet to Datawrapper, **make sure you change the sharing settings of your Google Spreadsheet to "anyone who has the link can view"**
