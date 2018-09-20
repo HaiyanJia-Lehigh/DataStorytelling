@@ -13,9 +13,9 @@
 
 
 - **Creating a Pie Chart Using Datawrapper**
--   On its [homepage](https://www.datawrapper.de/), click to "Create a chart"
--   On the right top corner, you will find "New Chart"
--   Then, you see four steps of creating a chart: Upload Data, Check & Describe, Visualize, and Publish & Embed
+  -   On its [homepage](https://www.datawrapper.de/), click to "Create a chart"
+  -   On the right top corner, you will find "New Chart"
+  -   Then, you see four steps of creating a chart: Upload Data, Check & Describe, Visualize, and Publish & Embed
     1.  Upload Data
         * You can copy & paste data table directly in the blank box;
         * Upload XLS or CSV files;
@@ -23,6 +23,7 @@
         * Link to other external datasets.
         * **For our practice, we will use [Lehigh Enrollment data](https://www.lehigh.edu/~oir/profiles/profile.htm) from the Office of Institutional Research. I have put part of the 2017 data into this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit?usp=sharing). To create a chart, you can copy and paste the data into the box, or choose to import data directly from this Google Spreadsheet.**
         * If you copy & paste the data, make sure you select the portion of the dataset correctly
+        * Read more about [the different ways of uploading data into Datawrapper](https://academy.datawrapper.de/article/86-upload-data)
         * Once the data is correctly imported or added, hit "Proceed"
     2. Check & Describe
         * Check if your first row of data are labels
@@ -43,6 +44,8 @@
     4. Publish & Embed
         * Lastly, of course, is to publish your beautiful chart. With the free account, you get to get the embed code, which you will use to publish the chart on your io page. With a paid account, you also have the option to save your chart locally as an image or PDF.
         * Once you click to publish your chart, it will give you a URL, which you can use for sharing, and an emded code, as an iframe, which you can use to insert into your io page.
+  -   Learn more about creating pie charts using Datawrapper by reading this [How-to page](https://academy.datawrapper.de/article/24-how-to-create-a-pie-chart).
+
 
 - **Embedding your chart on GitHub.io page**
   -   Super simple: you will need to copy and paste the embed code from the Datawrapper website to your ReadMe file on GitHub.com
