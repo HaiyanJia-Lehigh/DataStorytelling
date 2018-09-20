@@ -22,8 +22,13 @@
         * Import Google Spreadsheet by copying & pasting the link; or
         * Link to other external datasets.
         * **For our practice, we will use [Lehigh Enrollment data](https://www.lehigh.edu/~oir/profiles/profile.htm) from the Office of Institutional Research. I have put part of the 2017 data into this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit?usp=sharing). To create a chart, you can copy and paste the data into the box, or choose to import data directly from this Google Spreadsheet.**
+        * If you copy & paste the data, make sure you select the portion of the dataset correctly
+        * Once the data is correctly imported or added, hit "Proceed"
+    2. Check & Describe
+        * Check if your first row of data are labels
+        * Sort the data if you want to make them show in a certain order (e.g., list data in descending order by the "Total" column)
+        * Sometimes, you may need to transpose (swap rows and columns), add a column, etc.
 -   Introduction to Datawrapper
 -   Introduction to Datawrapper
 -   Introduction to Datawrapper
--   Introduction to Datawrapper
--   Introduction to Datawrapper
+-   **Make sure you change the sharing settings of your Google Spreadsheet to "anyone who has the link can view"
