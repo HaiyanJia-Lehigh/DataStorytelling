@@ -11,3 +11,19 @@
   -   Create your account on [Datawrapper](https://www.datawrapper.de/)
   -   Questions? Consult their [FAQ page](https://www.datawrapper.de/faq/) and [How-to page](https://academy.datawrapper.de/).
 
+
+- **Creating a Pie Chart Using Datawrapper**
+-   On its [homepage](https://www.datawrapper.de/), click to "Create a chart"
+-   On the right top corner, you will find "New Chart"
+-   Then, you see four steps of creating a chart: Upload Data, Check & Describe, Visualize, and Publish & Embed
+    1.  Upload Data
+        * You can copy & paste data table directly in the blank box;
+        * Upload XLS or CSV files;
+        * Import Google Spreadsheet by copying & pasting the link; or
+        * Link to other external datasets.
+        * **For our practice, we will use [Lehigh Enrollment data](https://www.lehigh.edu/~oir/profiles/profile.htm) from the Office of Institutional Research. I have put part of the 2017 data into this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit?usp=sharing). To create a chart, you can copy and paste the data into the box, or choose to import data directly from this Google Spreadsheet.**
+-   Introduction to Datawrapper
+-   Introduction to Datawrapper
+-   Introduction to Datawrapper
+-   Introduction to Datawrapper
+-   Introduction to Datawrapper
