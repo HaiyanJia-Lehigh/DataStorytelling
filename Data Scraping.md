@@ -6,9 +6,17 @@
   
   
 - **Using ParseHub to scrape online data**
-  -   Open ParseHub software, log in with account information, and create a new project.
-  -   We will use Teachers Salary Project as an example. Enter URL for Teacher salary data feed: http://teachersalaryproject.org/state-data/
-  -   Click on Alaska as selection 
+  1.   Open ParseHub software, log in with account information, and create a new project.
+  2.   We will use Teachers Salary Project as an example. Enter URL for Teacher salary data feed: http://teachersalaryproject.org/state-data/
+  3.   Click on Alaska as selection 
       - Change selection name to “State” 
       - Scroll down and click yellow check mark next to Arkansas 
       - All States on the page should be recognized as such now
+  4.   Click the + next to select State
+      - Choose relative select
+      - First Click on Alaska
+      - Then drag the arrow down and click on the per pupil spending figure for Alaska
+      - Now click on Arkansas
+      - Then drag the arrow down and click on the per pupil spending figure for Alaska
+      - You should now have pupil figures for all states on the page
+      - Rename that selection to “Pupil”
