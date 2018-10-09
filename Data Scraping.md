@@ -1,7 +1,7 @@
 ## Online Data Collection 1: Data Scraping
 
 - **Getting Started with ParseHub**
-  -   Please download ParseHub and create an account on their [Website](https://www.parsehub.com/).
+  -   Please download ParseHub and create an account on their website: https://www.parsehub.com/.
   -   If you'd like, check out the [ParseHub tutorials](https://help.parsehub.com/hc/en-us/categories/202638628-Using-ParseHub). You might want to start with "Example: Create your first ParseHub project."
   
   
