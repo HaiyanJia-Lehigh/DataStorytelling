@@ -57,8 +57,7 @@
   -   Create a quick view table of all of the currently available positions at Lehigh, which may look like the following:
  
  ![ParseHubTable](https://github.com/HaiyanJia-Lehigh/DataStorytelling/blob/master/ParseHub%20Assignment%201.png?raw=true)
- 
-   -   Make a bar chart showing the number of jobs per department, category or other dimension, which may look like the following:
+  -   Make a bar chart showing the number of jobs per department, category or other dimension, which may look like the following:
  
  ![ParseHubGraph](https://github.com/HaiyanJia-Lehigh/DataStorytelling/blob/master/ParseHub%20Assignment%202.png?raw=true)
 
