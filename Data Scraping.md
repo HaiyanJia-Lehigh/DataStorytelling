@@ -9,6 +9,6 @@
   -   Open ParseHub software, log in with account information, and create a new project.
   -   We will use Teachers Salary Project as an example. Enter URL for Teacher salary data feed: http://teachersalaryproject.org/state-data/
   -   Click on Alaska as selection 
-    - Change selection name to “State” 
-    - Scroll down and click yellow check mark next to Arkansas 
-    - All States on the page should be recognized as such now
+      - Change selection name to “State” 
+      - Scroll down and click yellow check mark next to Arkansas 
+      - All States on the page should be recognized as such now
