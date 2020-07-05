@@ -9,7 +9,7 @@
   -   As a starting point, let's see [What to consider when creating line charts](https://academy.datawrapper.de/article/129-what-to-consider-when-creating-line-charts), and then learn [How to create a line chart](https://academy.datawrapper.de/article/23-how-to-create-a-line-chart) and how to [customize the line chart](https://academy.datawrapper.de/article/47-customizing-your-line-chart)
   -   For our practice project, we want to address the question:
   **What are the percentages of students in each of Lehigh's three undergraduate colleges over the past ten years?**
-  -   Find the data for ten years of [Lehigh's institutional profile](https://www.lehigh.edu/~oir/profiles/profile.htm). You will be using the html version that has more than ten years of Lehigh profiles in tabs at the bottom.
+  -   Find the data for ten years of [Lehigh's institutional profile](https://oirsa.lehigh.edu/fte-headcount). You will be using the html version that has more than ten years of Lehigh profiles in tabs at the bottom.
   -   Create a spreadsheet in Google docs that has four columns: Year, Arts & Sciences, Business and Engineering.
   -   Only collect the data for Arts & Sciences, Business and Engineering for the past ten years and enter it into a spreadsheet in Google Docs. This will take about 5-10 minutes.
   -   Link that Google spreadsheet to Datawrapper, and create a line graph/time-series chart that shows the changes in percentage of undergraduate enrollment per college per year.
