@@ -22,6 +22,6 @@
   -   [Scattor plots](https://academy.datawrapper.de/category/79-scatterplots)
 
 ## Project Assignment
- -  Please find a dataset that is of relevance to your group project idea to create a chart using what we have learned today (i.e. line chart, area chart, stacked chart, or scattor plot)
+ -  Please find a dataset that is of interest to you to create a chart using what we have learned (i.e. pie chart, bar chart, colunm chart, line chart, area chart, stacked chart, or scattor plot)
  -  Publish your chart on your io page, and copy and paste the url on Course Site using the submission link
  -  Not sure where to find data? Here are [some starters on how to find usable datasets](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Finding%20Data.md)! Also, check out the new [Google Dataset Search](https://toolbox.google.com/datasetsearch) tool.
