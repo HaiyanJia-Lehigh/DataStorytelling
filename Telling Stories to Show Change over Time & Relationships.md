@@ -21,7 +21,7 @@
   -   [Stacked column charts](https://academy.datawrapper.de/category/75-column-charts), and
   -   [Scattor plots](https://academy.datawrapper.de/category/79-scatterplots)
 
-## Project Assignment 1 
+## Project Assignment
  -  Please find a dataset that is of relevance to your group project idea to create a chart using what we have learned today (i.e. line chart, area chart, stacked chart, or scattor plot)
- -  Publish your chart on your io page by the end of this week
+ -  Publish your chart on your io page, and copy and paste the url on Course Site using the submission link
  -  Not sure where to find data? Here are [some starters on how to find usable datasets](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Finding%20Data.md)! Also, check out the new [Google Dataset Search](https://toolbox.google.com/datasetsearch) tool.
