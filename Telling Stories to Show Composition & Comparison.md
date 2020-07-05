@@ -21,7 +21,7 @@
         * Upload XLS or CSV files;
         * Import Google Spreadsheet by copying & pasting the link; or
         * Link to other external datasets.
-        * **For our practice, we will use [Lehigh Enrollment data](https://www.lehigh.edu/~oir/profiles/profile.htm) from the Office of Institutional Research. I have put part of the 2017 data into this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit?usp=sharing). To create a chart, you can copy and paste the data into the box, or choose to import data directly from this Google Spreadsheet.**
+        * **For our practice, we will use [Lehigh Enrollment data](https://oirsa.lehigh.edu/fte-headcount) from the Office of Institutional Research. I have put part of the Spring 2020 Undergraduate Enrollment data into this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit?usp=sharing). To create a chart, you can copy and paste the data into the box, or choose to import data directly from this Google Spreadsheet.**
         * If you copy & paste the data, make sure you select the portion of the dataset correctly
         * Read more about [the different ways of uploading data into Datawrapper](https://academy.datawrapper.de/article/86-upload-data)
         * Once the data is correctly imported or added, hit "Proceed"
@@ -38,7 +38,7 @@
         * Next, we go to the "**Refine**" tab. Here, you can customize the colors of your chart.
         * Under the same tab, you can also choose how many slices you want to show in your pie chart. Sometimes, the data has too many categories, and you may want to group some of the least important into this "other" category--the system can do that automatically for you. But in case you want to show all of them, or specify a number of slides that are visible, you can manually change that number here.
         * Then, you get to **Annotate** your chart. This is critical for enabling user understanding of the chart.
-        * You will be able to add a title ("Lehigh Enrollment 2017"), a description ("This pie chart shows the undergraduate enrollment in the colleges and programs at Lehigh University in 2017. College of Arts & Sciences has the largest enrollment, with a total of 1665 students."), a note (optional), data source ("Office of Institutional Research"), link to data source (https://www.lehigh.edu/~oir/profiles/profile.htm), byline (you can put your name down as the author)
+        * You will be able to add a title ("Lehigh Undergraduate Enrollment Spring 2020"), a description ("This pie chart shows the undergraduate enrollment in the colleges and programs at Lehigh University in Spring 2020. College of Arts & Sciences has the largest enrollment, with a total of 1830 students."), a note (optional), data source ("Office of Institutional Research"), link to data source (https://oirsa.lehigh.edu/enrollment), byline (you can put your name down as the author)
         * In case you want your readers to concentrate on one part of the data, you can choose to highlight the element(s) as well.
         * Finally, we can take a final look at the **Design** of the chart, deciding the layout, output locale, and whether or not to enable social sharing.
     4. Publish & Embed
