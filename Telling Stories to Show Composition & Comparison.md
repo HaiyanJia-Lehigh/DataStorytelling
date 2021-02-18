@@ -21,7 +21,7 @@
         * Upload XLS or CSV files;
         * Import Google Spreadsheet by copying & pasting the link; or
         * Link to other external datasets.
-        * **For our practice, we will use [Lehigh Enrollment data](https://oirsa.lehigh.edu/fte-headcount) from the Office of Institutional Research. I have put part of the Spring 2020 Undergraduate Enrollment data into this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit?usp=sharing). To create a chart, you can copy and paste the data into the box, or choose to import data directly from this Google Spreadsheet.**
+        * **For our practice, we will use [Lehigh Enrollment data](https://oirsa.lehigh.edu/fte-headcount) from the Office of Institutional Research. I have put part of the Spring 2020 and Fall 2020 Undergraduate Enrollment data into this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit?usp=sharing). To create a chart, you can copy and paste the data into the box, or choose to import data directly from this Google Spreadsheet.**
         * If you copy & paste the data, make sure you select the portion of the dataset correctly
         * Read more about [the different ways of uploading data into Datawrapper](https://academy.datawrapper.de/article/86-upload-data)
         * Once the data is correctly imported or added, hit "Proceed"
