@@ -53,11 +53,10 @@
 
 
 - **Assignment**
-  -   Scrape the current list of job openings at Lehigh University from: https://lehigh.hiretouch.com/search-all-positions/default.cfm?from=search&per=100
-  -   Create a quick view table of all of the currently available positions at Lehigh, which may look like the following:
- ![ParseHubTable](https://github.com/HaiyanJia-Lehigh/DataStorytelling/blob/master/ParseHub%20Assignment%201.png?raw=true)
-  -   Make a bar chart showing the number of jobs per department, category or other dimension, which may look like the following:
- 
- ![ParseHubGraph](https://github.com/HaiyanJia-Lehigh/DataStorytelling/blob/master/ParseHub%20Assignment%202.png?raw=true)
+  -   Scrape the ACLUs list of cases, press releases, blogs, podcasts, and other publications on Racial Profiling found here
+https://www.aclu.org/search/%20?f[0]=field_issues:245
+  -   Create a quick view table of all of these items including title, URL, date, and type (as shown below)
+  -   Please write a short description of your data
+*Note: you do not have to scrape all 600+ items, but see if you can at least scrape beyond the first page of 10 results.
 
-  
+![ParseHub Assignment](https://github.com/HaiyanJia-Lehigh/DataStorytelling/blob/master/ParseHub%20Assignment%20SP21.png?raw=true)
