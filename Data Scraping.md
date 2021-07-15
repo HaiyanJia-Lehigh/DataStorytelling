@@ -61,4 +61,4 @@ https://www.aclu.org/search/%20?f[0]=field_issues:245
 
 ![ParseHub Assignment](https://github.com/HaiyanJia-Lehigh/DataStorytelling/blob/master/ParseHub%20Assignment%20SP21.png?raw=true)
 
-  -   **ALTERNATIVELY:** Scrape data from any other web site of your choice. Try to find an example that has formatted consistent data, but not already in tabular form and without a direct data download available. In your description, please also explain your rationale for choosing this data.
+   -   **ALTERNATIVELY:** Scrape data from any other web site of your choice. Try to find an example that has formatted consistent data, but not already in tabular form and without a direct data download available. In your description, please also explain your rationale for choosing this data.
